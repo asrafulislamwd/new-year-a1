@@ -1,0 +1,57 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+/* font-family: 'Inter', sans-serif; */
+/* font-family: 'Merriweather', serif; */
+
+.comon-container
+{
+    width: 1320px;
+    margin: auto;
+}
+
+.banner-content
+{
+    background-image: url('../image/resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.banner-opacity
+{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+.banner-title
+{
+    width: 632px;
+    margin: auto;
+    padding: 175px 0px;
+}
+
+.banner-title h3
+{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400px;
+    font-family: 'Merriweather', serif;
+    padding-bottom: 16px;
+    color: #fff;
+
+}
+
+.banner-title h1
+{
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    font-family: 'Merriweather', serif;
+    color: #fff;
+    line-height: 95px;
+}
