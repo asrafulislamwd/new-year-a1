@@ -261,3 +261,67 @@
 {
     margin: 28px;
 }
+/* sale section */
+
+.sale-title h3
+{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+    padding: 30px 0px;
+    color: #070211;
+}
+
+.sale-title h1
+{
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    font-family: 'Merriweather', serif;
+    padding-bottom: 30px;
+    color: #f00;
+}
+
+.sale-title h1 span
+{
+    color: #070211;
+}
+
+.sale-title p
+{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+    line-height: 32px;
+    padding: 0 180px;
+    color: #070211;
+}
+
+.sale-img-content
+{
+    background-image: url('../image/resources/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    display: flex;
+    gap: 47px;
+    margin-top: 30px;
+}
+
+.sale-img-dec
+{
+    position: relative;
+}
+
+.sale-img-dec img
+{
+    position: absolute;
+    left: -108px;
+    top: 70px;
+}
+
+.sale-img-box .sale-img-right
+{
+    padding-top: 5px;
+}
