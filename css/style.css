@@ -433,3 +433,47 @@
     font-family: 'Inter', sans-serif;
     color: #fff;
   }
+
+  /* footer */
+
+  footer
+{
+    background-color: #070211;
+    margin-top: 100px;
+    padding: 100px 0;
+}
+
+.footer-top
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-title h3, .footer-bottom h3
+{
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    line-height: 45px;
+    color: #fff;
+}
+
+.footer-link-box
+{
+    margin: 50px 0;
+    padding: 40px 0;
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
+    text-align: center;
+}
+.footer-link-box a
+{
+    margin: 0 15px;
+}
+
+.footer-bottom
+{
+    display: flex;
+    justify-content: space-between;
+}
+
